@@ -31,9 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Dwashi2/HoneymoonUI/main/1.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/HoneymoonUI/main/2.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/HoneymoonUI/main/3.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/MyIp/main/1.png" width="248">
 </p>
  
  

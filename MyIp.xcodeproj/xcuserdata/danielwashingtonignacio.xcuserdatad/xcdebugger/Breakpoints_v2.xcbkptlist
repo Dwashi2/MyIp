@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EEA71397-59B4-4819-B995-E89E17367ACD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AAAB350-A88A-421A-809C-3C741E4480F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyIp/View/MyIpView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MyIpView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8AAAB350-A88A-421A-809C-3C741E4480F8 - a8b939dfdbd098fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyIp.MyIpView.__allocating_init(frame: __C.CGRect) -&gt; MyIp.MyIpView"
+                  moduleName = "MyIp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielwashingtonignacio/Desktop/MyIp/MyIp/View/MyIpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "8AAAB350-A88A-421A-809C-3C741E4480F8 - c702c9ee7482ec87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyIp.MyIpView.init(frame: __C.CGRect) -&gt; MyIp.MyIpView"
+                  moduleName = "MyIp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielwashingtonignacio/Desktop/MyIp/MyIp/View/MyIpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "8AAAB350-A88A-421A-809C-3C741E4480F8 - 77b55c2f30da3cdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyIp.MyIpView.__deallocating_deinit"
+                  moduleName = "MyIp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielwashingtonignacio/Desktop/MyIp/MyIp/View/MyIpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E386CCE-9EC4-41A1-AE60-293E739F8393"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyIp/Controller/MyIpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "checkIP(_:ip:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D2B9A14-80B9-4FD6-BB52-DB55B22BB194"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyIp/Controller/MyIpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

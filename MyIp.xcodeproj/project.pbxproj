@@ -9,13 +9,17 @@
 /* Begin PBXBuildFile section */
 		56128C582BD2B3FD0028B6AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C572BD2B3FD0028B6AC /* AppDelegate.swift */; };
 		56128C5A2BD2B3FD0028B6AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C592BD2B3FD0028B6AC /* SceneDelegate.swift */; };
-		56128C5C2BD2B3FD0028B6AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C5B2BD2B3FD0028B6AC /* ViewController.swift */; };
 		56128C5F2BD2B3FD0028B6AC /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 56128C5E2BD2B3FD0028B6AC /* Base */; };
 		56128C612BD2B3FE0028B6AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56128C602BD2B3FE0028B6AC /* Assets.xcassets */; };
 		56128C642BD2B3FE0028B6AC /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 56128C632BD2B3FE0028B6AC /* Base */; };
 		56128C6F2BD2B3FE0028B6AC /* MyIpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C6E2BD2B3FE0028B6AC /* MyIpTests.swift */; };
 		56128C792BD2B3FE0028B6AC /* MyIpUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C782BD2B3FE0028B6AC /* MyIpUITests.swift */; };
 		56128C7B2BD2B3FE0028B6AC /* MyIpUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C7A2BD2B3FE0028B6AC /* MyIpUITestsLaunchTests.swift */; };
+		56128C8D2BD2B4C20028B6AC /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C8C2BD2B4C20028B6AC /* Constants.swift */; };
+		56128C8F2BD2B5000028B6AC /* MyIpData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C8E2BD2B5000028B6AC /* MyIpData.swift */; };
+		56128C912BD2B5560028B6AC /* MyIpApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C902BD2B5560028B6AC /* MyIpApiManager.swift */; };
+		56128C932BD2B76F0028B6AC /* MyIpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C922BD2B76F0028B6AC /* MyIpViewController.swift */; };
+		56128C952BD2B7C40028B6AC /* MyIpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56128C942BD2B7C40028B6AC /* MyIpView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +43,6 @@
 		56128C542BD2B3FD0028B6AC /* MyIp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyIp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56128C572BD2B3FD0028B6AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56128C592BD2B3FD0028B6AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		56128C5B2BD2B3FD0028B6AC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		56128C5E2BD2B3FD0028B6AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		56128C602BD2B3FE0028B6AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56128C632BD2B3FE0028B6AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +52,11 @@
 		56128C742BD2B3FE0028B6AC /* MyIpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyIpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56128C782BD2B3FE0028B6AC /* MyIpUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyIpUITests.swift; sourceTree = "<group>"; };
 		56128C7A2BD2B3FE0028B6AC /* MyIpUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyIpUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		56128C8C2BD2B4C20028B6AC /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		56128C8E2BD2B5000028B6AC /* MyIpData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyIpData.swift; sourceTree = "<group>"; };
+		56128C902BD2B5560028B6AC /* MyIpApiManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyIpApiManager.swift; sourceTree = "<group>"; };
+		56128C922BD2B76F0028B6AC /* MyIpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyIpViewController.swift; sourceTree = "<group>"; };
+		56128C942BD2B7C40028B6AC /* MyIpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyIpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +107,12 @@
 		56128C562BD2B3FD0028B6AC /* MyIp */ = {
 			isa = PBXGroup;
 			children = (
+				56128C8B2BD2B4AD0028B6AC /* Commons */,
+				56128C8A2BD2B4980028B6AC /* ViewModel */,
+				56128C892BD2B4910028B6AC /* View */,
+				56128C882BD2B48A0028B6AC /* Model */,
 				56128C572BD2B3FD0028B6AC /* AppDelegate.swift */,
 				56128C592BD2B3FD0028B6AC /* SceneDelegate.swift */,
-				56128C5B2BD2B3FD0028B6AC /* ViewController.swift */,
 				56128C5D2BD2B3FD0028B6AC /* Main.storyboard */,
 				56128C602BD2B3FE0028B6AC /* Assets.xcassets */,
 				56128C622BD2B3FE0028B6AC /* LaunchScreen.storyboard */,
@@ -125,6 +136,39 @@
 				56128C7A2BD2B3FE0028B6AC /* MyIpUITestsLaunchTests.swift */,
 			);
 			path = MyIpUITests;
+			sourceTree = "<group>";
+		};
+		56128C882BD2B48A0028B6AC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				56128C8E2BD2B5000028B6AC /* MyIpData.swift */,
+				56128C902BD2B5560028B6AC /* MyIpApiManager.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		56128C892BD2B4910028B6AC /* View */ = {
+			isa = PBXGroup;
+			children = (
+				56128C942BD2B7C40028B6AC /* MyIpView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		56128C8A2BD2B4980028B6AC /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				56128C922BD2B76F0028B6AC /* MyIpViewController.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		56128C8B2BD2B4AD0028B6AC /* Commons */ = {
+			isa = PBXGroup;
+			children = (
+				56128C8C2BD2B4C20028B6AC /* Constants.swift */,
+			);
+			path = Commons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,9 +302,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56128C5C2BD2B3FD0028B6AC /* ViewController.swift in Sources */,
+				56128C8F2BD2B5000028B6AC /* MyIpData.swift in Sources */,
+				56128C912BD2B5560028B6AC /* MyIpApiManager.swift in Sources */,
+				56128C952BD2B7C40028B6AC /* MyIpView.swift in Sources */,
 				56128C582BD2B3FD0028B6AC /* AppDelegate.swift in Sources */,
 				56128C5A2BD2B3FD0028B6AC /* SceneDelegate.swift in Sources */,
+				56128C932BD2B76F0028B6AC /* MyIpViewController.swift in Sources */,
+				56128C8D2BD2B4C20028B6AC /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
